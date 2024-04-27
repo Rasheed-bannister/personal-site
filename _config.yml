@@ -63,9 +63,10 @@ author:
     - label: "LFB Plasma"
       icon: "fas fa-fw fa-link"
       url: "https://wwww.lfbplasma.com"
+      
     - label: "Fairlen TTRPG"
       icon: ""
-      url: "https://ttrpg.bannister.cc
+      url: "https://ttrpg.bannister.cc"
 
 footer:
   links:
