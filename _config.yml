@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Rasheed Bannister
+title_separator: "|"
 email: rasheed.bannister@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Finding creative solutions to business problems. 
